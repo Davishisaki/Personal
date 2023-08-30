@@ -1,0 +1,49 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100&family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+    *{
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    box-sizing: border-box;
+    margin: 100;
+    padding: 10;
+    }
+
+*{
+    background-color: black;
+}
+
+.banner{
+    text-align: center;
+    background-image:"./Imag/Banner.jpg" ;
+}
+
+nav ul {
+    list-style-type:circle;
+    background-color: rgb(41, 41, 41);
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: aqua;
+}
+
+section{
+    border: rgb(79, 77, 77);
+    background-color: rgb(79, 77, 77);
+}
+
+.secao-titulo{
+text-align: center;
+}
+
+.secao-descricao{
+    background-color: rgb(79, 77, 77);
+}
+
+.secao-botao{
+    background-color: rgb(79, 77, 77);
+}
+
